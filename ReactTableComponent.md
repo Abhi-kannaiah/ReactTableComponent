@@ -1,7 +1,7 @@
 ReactJS Simple Table Component
 ==============================
 
-[CodePen](http://codepen.io/gregbarozzi/pen/XXMBLM?editors=001)
+[CodePen](https://codepen.io/abhignya92/pen/gXadoE)
 
         var TableComponent = React.createClass({
           render: function() {
